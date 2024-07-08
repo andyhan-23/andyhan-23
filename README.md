@@ -21,7 +21,9 @@
 
 ## Links & Contacts
 
-- Blog: https://velog.io/@kungfuk11/posts
 - Email: andyhanjaehyeok.1123@gmail.com
+- Linkedin: www.linkedin.com/in/andyhan23
+- Blog: https://velog.io/@kungfuk11/posts
+
 
 
