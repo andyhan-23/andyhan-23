@@ -12,9 +12,9 @@
 
 
 ## Projects
-### 백엔드와 같이 진행한 협업 프로젝트 결과물
+#### 백엔드 팀과 협업하여 완성한 프로젝트 결과물 입니다. 
 - [Rest Spot Finder](https://restspotfinder.site/) - 운전 중 휴식을 도와주는 쉼터 정보 제공 웹사이트 입니다.
-### 프론트 혼자서 진행한 결과물
+### 프론트엔드 단독으로 완성한 결과물 입니다.
 - [Coupag Eats](https://coupang-eats.vercel.app/) - 기존 서비스를 참고하여 사용자 경험을 중심으로 제작한 모바일 서비스 입니다.
 - [Vanila JS SPA](https://vanila-js-spa.vercel.app/) - 프레임워크 없이 순수 JS 만으로 SPA 구현한 웹사이트 입니다.
 
